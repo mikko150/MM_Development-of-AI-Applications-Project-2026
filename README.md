@@ -1,4 +1,4 @@
-# Project name
+# Testi
 
 Starter template for the **Development of AI Applications** course final group project.
 
